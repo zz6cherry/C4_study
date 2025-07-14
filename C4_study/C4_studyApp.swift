@@ -12,6 +12,7 @@ struct C4_studyApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+//            test()
         }
     }
 }
